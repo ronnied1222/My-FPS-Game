@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{A429C9AA-4042-64E3-59B5-E59FFC2BBC80}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerSetup.cs">
     <Files>
       <File FileName="Assets/PlayerMotor.cs" Line="8" Column="5" />
       <File FileName="Assets/PlayerController.cs" Line="5" Column="28" />
+      <File FileName="Assets/PlayerSetup.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
