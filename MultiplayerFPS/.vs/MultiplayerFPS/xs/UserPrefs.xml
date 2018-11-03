@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{514A435D-F07B-3516-8858-A09AD47FC2AB}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs">
+    <Files>
+      <File FileName="Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs" Line="90" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
